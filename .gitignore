@@ -4,19 +4,11 @@ venv*/
 *.pth
 *.mp4
 *.mov
-*.avi
 *.png
 *.jpg
 *.jpeg
 *.key
 *.pages
-
-# Milvus database files
-*.db
-*.db.lock
-.milvus_people_log.db*
-**/.milvus_people_log.db*
-**/.milvus_people_log.db.lock
 
 # Large PDF files (optional - uncomment if you don't want to track PDFs)
 # *.pdf
